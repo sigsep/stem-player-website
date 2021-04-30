@@ -1,4 +1,6 @@
-# open-unmix stem player
+# open-unmix stem demo website
+
+as used for ISMIR 2019
 
 ## Project setup
 ```
