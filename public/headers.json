@@ -1,5 +1,5 @@
 { 
-    "dark": false,
+    "dark": true,
     "stems": [
         "vocals", "drums", "bass", "other"
     ],
